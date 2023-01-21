@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hey to</h1> <br/>
-      <h2>REACT APPLICATION</h2>
+      
+      <h2>Welcome REACT APPLICATION</h2>
     </div>
   );
 }
